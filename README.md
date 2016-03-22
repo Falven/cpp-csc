@@ -19,7 +19,7 @@ Make the project.
 `make`
 
 Run the project.
-`./chat ...`
+`./csc ...`
 
 ##Invocation:
 `chmod a+x csc // if not built, make the file executable by all`
