@@ -23,8 +23,10 @@ Run the project.
 
 ##Invocation:
 `chmod a+x csc // if not built, make the file executable by all`
+
 `./csc [options] [help | [host [port [username [password [delta_secs]]]]]]`
 
 Examples:
 .\csc mySubdomain.myDomain.com 80 myUsername myPassword 60
+
 .\csc -t 60 -o 90 -u myUsername -h mySubdomain.myDomain.com -p myPassword
