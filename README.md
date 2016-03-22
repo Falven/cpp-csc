@@ -28,6 +28,6 @@ Run the project.
 
 Examples:
 
-.\csc mySubdomain.myDomain.com 80 myUsername myPassword 60
+`.\csc mySubdomain.myDomain.com 80 myUsername myPassword 60`
 
-.\csc -t 60 -o 90 -u myUsername -h mySubdomain.myDomain.com -p myPassword
+`.\csc -t 60 -o 90 -u myUsername -h mySubdomain.myDomain.com -p myPassword`
